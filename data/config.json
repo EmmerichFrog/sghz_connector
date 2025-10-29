@@ -1,0 +1,16 @@
+{
+    "ha": "insert your home assistant here token here",
+    "entities": [
+        "bt:sensor.atc_f03f_temperature",
+        "bh:sensor.atc_f03f_humidity",
+        "kt:sensor.atc_dd25_temperature",
+        "kh:sensor.atc_dd25_humidity",
+        "ot:sensor.atc_da9e_temperature",
+        "oh:sensor.atc_da9e_humidity",
+        "dh:switch.dehumidifier",
+        "ad:automation.dehum_off",
+        "co:sensor.esp32_co2",
+        "pm:sensor.bedroom_pm2_5"
+    ],
+    "token": "insert your login token here"
+}
